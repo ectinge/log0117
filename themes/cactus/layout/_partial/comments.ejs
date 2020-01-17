@@ -1,7 +1,9 @@
-<% if(page.comments && theme.disqus.enabled){ %>
+<% if(page.comments){ %>
     <div class="blog-post-comments">
-        <div id="disqus_thread">
-            <noscript><%= __('comments.no_js') %></noscript>
-        </div>
+    <h2>0 评论</h2>
+      <label>
+      <h5 style="font-size: 80%;"></h5>
+    </label>
+      <p></p>
     </div>
 <% } %>

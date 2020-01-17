@@ -5,7 +5,7 @@
 # Link to a page that gives an overview of all your projects.
 # This can be an external link (e.g., to you GitHub profile) or to another
 # page within your website.
-projects_url:
+projects_url: 
 
 # Set the page direction to RTL or LTR. default is LTR. (if you set it 'rtl', the 'vazir' font will be loaded.)
 direction: ltr
@@ -114,14 +114,6 @@ page_width: 48
 
 # Enable or disable the RSS feed.
 rss: false
-
-# Turn your web pages into graph objects (see http://ogp.me).
-open_graph:
-  fb_app_id:
-  fb_admins:
-  twitter_id:
-  google_plus:
-
 
 ##############################################################################
 # Plugins
